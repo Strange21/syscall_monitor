@@ -1,0 +1,2 @@
+[workspace]
+members = ["xtask", "syscall-tp", "syscall-tp-common"]
